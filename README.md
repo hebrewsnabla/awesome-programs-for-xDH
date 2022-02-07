@@ -5,6 +5,7 @@
 | SP | 🗸([xDH4Gau](https://github.com/igor-1982/xDH4Gau)) | 🗸([CompoundScripts](https://github.com/ORCAQuantumChemistry/CompoundScripts/tree/main/UserContributed/XYG3TypeDoubleHybrids)) | 🗸 | 🗸 |  🗸  |
 | Grad |in-house | | | 🗸 | |
 | Hessian |in-house | | | | |
+| Polar | in-house | | |  🗸 | |
 | PBC-SP | | | |🗸 |  🗸 |
 
 Extra guides:
