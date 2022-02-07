@@ -6,6 +6,7 @@
 | Grad |in-house | | | 🗸 | |
 | Hessian |in-house | | | | |
 | Polar | in-house | | |  🗸 | |
+| NMR | in-house | | |  | |
 | PBC-SP | | | |🗸 |  🗸 |
 
 Extra guides:
