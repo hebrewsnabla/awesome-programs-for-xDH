@@ -3,7 +3,7 @@
 | | Gaussian | ORCA | Q-Chem | PySCF/[dh](https://github.com/ajz34/dh) | FHI-AIMS |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | SP | 🗸([xDH4Gau](https://github.com/igor-1982/xDH4Gau)) | 🗸([CompoundScripts](https://github.com/ORCAQuantumChemistry/CompoundScripts/tree/main/UserContributed/XYG3TypeDoubleHybrids)) | 🗸 | 🗸 |  🗸  |
-| Grad |in-house | | | 🗸 | |
+| Grad |in-house | | 🗸(XYGJ-OS) | 🗸 | |
 | Hessian |in-house | | | | |
 | Polar | in-house | | |  🗸 | |
 | NMR | in-house | | |  | |
